@@ -8,5 +8,5 @@ for (let i=0; i<arr.length; i++){
         oddOne+=arr[i]+" ";
     }
 }
-console.log(evenOne);
-console.log(oddOne);
+console.log("Even : "+evenOne);
+console.log("Odd : "+oddOne);
