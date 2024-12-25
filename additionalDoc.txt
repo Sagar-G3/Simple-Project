@@ -1,0 +1,2 @@
+This is a demo documentation for
+JavaScript file and HTML file.
